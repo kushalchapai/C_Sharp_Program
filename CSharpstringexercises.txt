@@ -1,0 +1,16 @@
+1. Write a Java program to concatenate Two strings.
+2. Write a Java program to get the character at the given index within the String.
+5. Write a Java program to compare two strings lexicographically Two strings are lexicographically equal if they are the same length and contain the same characters in the same positions.
+7. Write a Java program to concatenate a given string to the end of another string
+8. Write a Java program to test if a given string contains the specified sequence of char values
+9. Write a Java program to compare a given string to the specified character sequence
+11. Write a Java program to check whether a given string ends with the contents of another string
+16. Write a Java program to convert all the characters in a string to Lowercase
+17. Write a Java program to convert all the characters in a string to Uppercas
+18. Write a java program to get the length of a given string
+19. Write a Java program to replace a specified character with another character
+20. Write a Java program to replace each substring of a given string that matches the given regular expression with the given replacement
+22. Write a Java program to get a substring of a given string between two specified positions
+29. Write a Java program to Reverse Each Word of a String
+34. Write a Java program to reverse words in a given string
+41. Write a program to Trim a given string using String.trim() method
